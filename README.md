@@ -147,23 +147,14 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Sales View
 
-![Untitled design (6)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/441fe16d-5b5b-499f-89b3-34a9496d5fdc)
+![Untitled design (5)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/f5418193-d317-4fab-9a2d-3a10191a0ad4)
 
-## Marketing view
 
-![Untitled design (7)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/9dcca970-9274-4fe7-83a0-1e4e1e29e8b3)
+## Marketing View
 
-## Supply Chain View
+![Untitled design (7)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/eb94a9c5-750f-41fc-8c3e-d5335726e325)
 
-![Untitled design (7)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/0a7aa199-ca07-4260-84b5-1458382be178)
 
-## Executive View
-
-![Untitled design (9)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/ca7e3e4c-c0bb-45ba-88c3-79f4bd45d4cc)
-
-## support
-
-![Untitled design (10)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/cdaedcc5-6b46-4b6f-a524-0f5b43abb34e)
 
      
     
