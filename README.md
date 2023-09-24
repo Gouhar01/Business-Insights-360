@@ -5,7 +5,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is here
 
-Live Report Link
+[Live Report Link](https://app.powerbi.com/groups/me/reports/02f7f83c-875c-4576-90e1-4bdcba32ff31/ReportSectiona4dfa1bcf0a9fd3afc0e?experience=power-bi)
 
 ## Tools Used
 - SQL
@@ -133,8 +133,9 @@ In Home view, all the views button will be available. User will land on specific
  - Executive View
  - Support
 
-## Home 
+## Overall Report
 
+![Untitled design (11)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/f4549a1c-23fe-4d20-af4d-f572d167724f)
           
         
           
