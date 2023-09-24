@@ -147,16 +147,30 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Sales View
 
-![Untitled design (5)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/f5418193-d317-4fab-9a2d-3a10191a0ad4)
-
+![Untitled design (5)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/373cfc7e-19e1-43fe-bec8-64958dd59b79)
 
 ## Marketing View
 
-![Untitled design (7)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/eb94a9c5-750f-41fc-8c3e-d5335726e325)
+![Untitled design (7)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/a3b60d0b-76d1-4846-81ff-2616340cde12)
+
+## Suppply chain View
+
+![Untitled design (9)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/7aa0bdc0-841d-4c23-a450-62dc5e31a667)
+
+
+## Executive View
+
+![Untitled design (12)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/ae8ec6b9-c1c1-4a04-b410-6fb24a1dd42e)
+
+
+## Support
+
+![Untitled design (10)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/b9d217b0-95ee-40f6-9ab9-af0cb8508a3e)
 
 
 
-     
+## Project Outcome
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
     
         
                    
