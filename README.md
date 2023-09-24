@@ -5,7 +5,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is here
 
-[Live Report Link](https://app.powerbi.com/groups/me/reports/02f7f83c-875c-4576-90e1-4bdcba32ff31/ReportSectiona4dfa1bcf0a9fd3afc0e?experience=power-bi)
+Live Report Link
 
 ## Tools Used
 - SQL
@@ -136,12 +136,35 @@ In Home view, all the views button will be available. User will land on specific
 ## Overall Report
 
 ![Untitled design (11)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/f4549a1c-23fe-4d20-af4d-f572d167724f)
-          
-        
-          
 
+## Info Page
+
+![Untitled design](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/85b64aa9-2fc3-4475-b205-5295aa90cdff)
           
-     
+## Financial View
+
+![Untitled design (2)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/927fcccf-97d1-44fd-8326-fdf3d24ff265)
+
+## Sales View
+
+![Untitled design (6)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/441fe16d-5b5b-499f-89b3-34a9496d5fdc)
+
+## Marketing view
+
+![Untitled design (7)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/9dcca970-9274-4fe7-83a0-1e4e1e29e8b3)
+
+## Supply Chain View
+
+![Untitled design (7)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/0a7aa199-ca07-4260-84b5-1458382be178)
+
+## Executive View
+
+![Untitled design (9)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/ca7e3e4c-c0bb-45ba-88c3-79f4bd45d4cc)
+
+## support
+
+![Untitled design (10)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/cdaedcc5-6b46-4b6f-a524-0f5b43abb34e)
+
      
     
         
