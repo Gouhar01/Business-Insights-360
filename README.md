@@ -61,7 +61,96 @@ Dimension Tables: It will have static data like details of customer and products
 Fact Tables:  It will have data about the transaction
 
 - gdb041:
+   - dim-customer
+        - 27 distinct markets (ex India, USA, spain)
+        - 75 distinct customers thorough out the market
+        - Two types of plateforms
+            - Bricks & Mortal- Physical/ offline stores
+            - E- commerce- Online(Amazone, flipkard)
+        - Three types of channels
+           - Retailer
+           - Distributor
+           - Direct
+        - dim-market
+           - 27 distinct markets (ex India, USA, spain)
+           - 7 sub-zones
+           - 4 regions
+                - APAC
+                - EU
+                - NA
+                - LATAM
+        - Divisions
+                - P & A
+                   - Peripherals
+                   - accessories
+                - PC
+                   - Notebook
+                   - Desktop
+                - N & S
+                   - networking
+                   - storage
+        - There are 14 differnt categories like, keyboareds, Internal HDD
+        - there are the differnt varients avialable for the same product
+   - fact-forecast-monthly
+        - This table is used to forecast the customer’s need in advance, which can help in
+        - The table is denormalized by data engineering team, as it is a data warehouse which is aimed to be used for analytical work.
+        - All the date of the month will be replaced by the start date of the month
+        - It will have all the column names and in the end it will have the forecast quantity need of the customer
+   - fact_sales_monthly
+        - This table is more or less is same as fact_forecase_monthly table, but the last column has the value of sold quantity instead of forecast value
+ - gbd0456:
+     - freight_cost
+        - This table has details of travel cost and other cost for each market with fiscal year
+     - gross_price
+        - Has the details of gross prices with product code
+     - manufacturing_cost
+        - Has the details of manufacturing cost with product code with year
+     - Pre_invoice_dedutions
+        - Has the details of pre invoice deductions percentage for each cutomer with year
+     - Post_invoice_deductions
+        - Post invoice deductions and other deductions details
 
-   dim-customers;
+## Importing data into PowerBI
+   As the dabase is MySQL in this project. We need to importe the dataset from MySQL to PowerBi by providing the databae access credential
+
+## Data Model
+   - data modeling plays a vital role and consier as the basement of report. All the visuals will be build upon the data modeling.
+   - Poor data modeling affects the performance of the report.
+   - In this project we have followed the Snowflakes data model.
+
+ ![21](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/c96318af-8b4c-4dac-b0c2-1089292f38d3)
+
+## Dashboard Designing 
+Besed on the mock ups requrement, team starded building measures as and when required.
+
+## Home view
+In Home view, all the views button will be available. User will land on specific view page by clicking the button
+ - Info
+ - Financial View
+ - Sales View
+ - Marketing View
+ - Supply Chain View
+ - Executive View
+ - Support
+
+## Home 
+
+          
+        
+          
+
+          
+     
+     
+    
+        
+                   
+        
+        
+        
+     
+
+                        
+      
   
   
