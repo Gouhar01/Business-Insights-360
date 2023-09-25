@@ -167,7 +167,8 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Untitled design (10)](https://github.com/Gouhar01/Business-Insights-360/assets/141431067/b9d217b0-95ee-40f6-9ab9-af0cb8508a3e)
 
-
+## Live Report Link
+[Live Dashboard ](https://app.powerbi.com/view?r=eyJrIjoiNTRhZjRhZmItY2IyNS00NmYwLTg3MjktOGM4M2E4NzEwZDI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Project Outcome
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
